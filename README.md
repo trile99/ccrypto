@@ -13,4 +13,7 @@ make all
 
 # this should pass
 ./test
+
+# run before commit to clean test file
+make clean
 ```
